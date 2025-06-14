@@ -2,6 +2,11 @@
 
 In this repository, I've learnt how to do API requests, Pillow, and I also explored customTikinter in python!~~
 
+Libraries you need are Pillow, customTkinter, requests
+
+so,
+  `py -m pip install requests Pillow customtkinter`
+
 
 # Project Preview
 It's pretty crude looking...
